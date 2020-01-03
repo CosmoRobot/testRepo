@@ -1,5 +1,5 @@
           Zinda 
-          with branch
+          with branch and dogs
           
 Lyrics by Amitabh Bhattacharya
 Music by Amit Trivedi
@@ -19,3 +19,4 @@ Kuch mangna, baki nahi,(2)
 jitna mila, kaafi hai,
 Zinda hoon yaar, kaafi hai.
 
+Woof! woof!
